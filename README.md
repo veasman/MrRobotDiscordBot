@@ -1,4 +1,4 @@
-# Mr-Robot-Discord-Bot
+# MrRobotDiscordBot
 A discord bot written in python with a decent set of features
 
 FEATURES:
